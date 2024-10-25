@@ -15,10 +15,10 @@ st.title('📊  Data Visualizer')
 working_dir = os.path.dirname(os.path.abspath(__file__))
 
 # Specify the folder where your CSV files are located
-folder_path = f"{working_dir}/data"  # Update this to your folder path
+ 
 
 # List all files in the folder
-files = [f for f in os.listdir(folder_path) if f.endswith('.csv')]
+
 
 # Dropdown to select a file
 uploaded_file = st.file_uploader("Choose a file")
