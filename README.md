@@ -2,6 +2,9 @@
 
 A simple and interactive data visualization app built using [Streamlit](https://streamlit.io/). This app allows you to upload CSV files, view data, and create various types of plots to explore and analyze data efficiently.
 
+🚀 [Live Demo](https://data-shower.streamlit.app/)
+Click the link above to try out the Data Visualizer app directly in your browser!
+
 Features
 
 - File Upload: Choose a CSV file to analyze.
