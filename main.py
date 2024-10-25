@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Set the page config
-st.set_page_config(page_title='Data Visualizer',
+st.set_page_config(page_title='Data Shower',
                    layout='centered',
                    page_icon='📊')
 
